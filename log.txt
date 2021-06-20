@@ -1,0 +1,1094 @@
+2021-06-19 10:54:07,421 - bot - INFO - Bot Started!
+2021-06-19 10:54:43,632 - bot - INFO - Authorizing with 0.json service account
+2021-06-19 10:54:46,426 - bot - INFO - File ID: 1fk_k9x2TB9II0zrPTChzw6pcqk0dUNqf
+2021-06-19 10:54:51,929 - bot - INFO - Syncing: (ADULTS)-18+
+2021-06-19 10:54:57,105 - bot - ERROR - Message to edit not found
+2021-06-19 10:55:46,263 - bot - INFO - Authorizing with 0.json service account
+2021-06-19 10:55:49,039 - bot - INFO - File ID: 1fk_k9x2TB9II0zrPTChzw6pcqk0dUNqf
+2021-06-19 10:55:55,437 - bot - INFO - Created Google-Drive Folder:
+Name: (ADULTS)-18+
+ID: 1egGeeptJHzHIdeprfaY67CbdvkIQOB0Y 
+2021-06-19 10:55:55,438 - bot - INFO - Syncing: (ADULTS)-18+
+2021-06-19 10:56:03,462 - bot - ERROR - Message to edit not found
+2021-06-19 10:58:12,780 - bot - INFO - Authorizing with 0.json service account
+2021-06-19 10:58:15,619 - bot - INFO - File ID: 1v6fR-lsoWpm8q2TYFch56JdexWO8GVeQ
+2021-06-19 10:58:22,651 - bot - INFO - Created Google-Drive Folder:
+Name: Series
+ID: 1Q0IdbkAB9Qe4SZD6hihvQInIdQQ8kEvg 
+2021-06-19 10:58:22,652 - bot - INFO - Syncing: Series
+2021-06-19 10:58:25,004 - bot - INFO - Created Google-Drive Folder:
+Name: Chines Series
+ID: 1SuAH_yv6SM6jU7amVyAE77eL-fYe9tY7 
+2021-06-19 10:58:25,005 - bot - INFO - Syncing: Series/Chines Series
+2021-06-19 10:58:27,269 - bot - INFO - Created Google-Drive Folder:
+Name: T
+ID: 18ffQc7Xya75ptmpzBJ_CKKYdOfBn99-P 
+2021-06-19 10:58:27,276 - bot - INFO - Syncing: Series/Chines Series/T
+2021-06-19 10:58:29,437 - bot - INFO - Created Google-Drive Folder:
+Name: U,V,W,X,Y,Z
+ID: 179KAU70inu3yK6UO96WfAEYVfwEfGAu_ 
+2021-06-19 10:58:29,446 - bot - INFO - Syncing: Series/Chines Series/U,V,W,X,Y,Z
+2021-06-19 10:58:31,528 - bot - INFO - Created Google-Drive Folder:
+Name: C
+ID: 1qR4bHzROeavG1tFhGqh3pnowCdTkrCYj 
+2021-06-19 10:58:31,531 - bot - INFO - Syncing: Series/Chines Series/C
+2021-06-19 10:58:33,702 - bot - INFO - Created Google-Drive Folder:
+Name: P
+ID: 1pqi2jX0Ks0bchJSgS4OOA32OICwg5p20 
+2021-06-19 10:58:33,705 - bot - INFO - Syncing: Series/Chines Series/P
+2021-06-19 10:58:35,893 - bot - INFO - Created Google-Drive Folder:
+Name: G
+ID: 12cWEqB6Sf_vVRK-h0XuSHMk34qFMlr2a 
+2021-06-19 10:58:35,896 - bot - INFO - Syncing: Series/Chines Series/G
+2021-06-19 10:58:37,959 - bot - INFO - Created Google-Drive Folder:
+Name: E
+ID: 1t-or3NqMIJGiaVN3mZzoaF4zK23Keu54 
+2021-06-19 10:58:37,962 - bot - INFO - Syncing: Series/Chines Series/E
+2021-06-19 10:58:40,227 - bot - INFO - Created Google-Drive Folder:
+Name: D
+ID: 1j7AdNt-dRL7Ns1iQSfme5e-WTMrihjco 
+2021-06-19 10:58:40,230 - bot - INFO - Syncing: Series/Chines Series/D
+2021-06-19 10:58:42,364 - bot - INFO - Created Google-Drive Folder:
+Name: R,S
+ID: 1Da6ZDCHCDrp3CdtgkNOWGe3ZfMEG5bz0 
+2021-06-19 10:58:42,366 - bot - INFO - Syncing: Series/Chines Series/R,S
+2021-06-19 10:58:44,529 - bot - INFO - Created Google-Drive Folder:
+Name: B
+ID: 1zUppMeAi9rc6eYbUgIBklJz4AFwnXAC4 
+2021-06-19 10:58:44,531 - bot - INFO - Syncing: Series/Chines Series/B
+2021-06-19 10:58:46,627 - bot - INFO - Created Google-Drive Folder:
+Name: L
+ID: 1LjX4W0yUhhbXhcgq_TZoGXR8_GNJrM2j 
+2021-06-19 10:58:46,630 - bot - INFO - Syncing: Series/Chines Series/L
+2021-06-19 10:58:49,063 - bot - INFO - Created Google-Drive Folder:
+Name: Lengend Of Yun Xi ( 2018 )
+ID: 1m3cv0wlN9LOba8Qc0Aj7LbaqGJrzpEW9 
+2021-06-19 10:58:49,066 - bot - INFO - Syncing: Series/Chines Series/L/Lengend Of Yun Xi ( 2018 )
+2021-06-19 10:59:35,695 - bot - INFO - Created Google-Drive Folder:
+Name: Legend of Condor Heroes 2017
+ID: 18KLtXKDMHnZonG_AqxbAnN9e9WzKO1L- 
+2021-06-19 10:59:35,697 - bot - INFO - Syncing: Series/Chines Series/L/Legend of Condor Heroes 2017
+2021-06-19 11:02:41,548 - bot - INFO - Created Google-Drive Folder:
+Name: Laughing In The Wind 2001
+ID: 1hJeguyPaHdyqMJMBql2Y7iLLJuLPxS4i 
+2021-06-19 11:02:41,550 - bot - INFO - Syncing: Series/Chines Series/L/Laughing In The Wind 2001
+2021-06-19 11:04:06,338 - bot - INFO - Created Google-Drive Folder:
+Name: Love 020 2016
+ID: 1btBIzohopQTPKG31SGDGk_J2-3Z1KcBE 
+2021-06-19 11:04:06,342 - bot - INFO - Syncing: Series/Chines Series/L/Love 020 2016
+2021-06-19 11:05:06,931 - bot - INFO - Created Google-Drive Folder:
+Name: Legend Of Qin 2007
+ID: 1RsO-CNqivMVQeld-qi1KkQ6sooS2W0xI 
+2021-06-19 11:05:06,932 - bot - INFO - Syncing: Series/Chines Series/L/Legend Of Qin 2007
+2021-06-19 11:06:55,923 - bot - INFO - Created Google-Drive Folder:
+Name: Legend Of Fuyao 2018
+ID: 1hyTlzkb1i8mGSHcztavPRnHVjLCuKSRc 
+2021-06-19 11:06:55,924 - bot - INFO - Syncing: Series/Chines Series/L/Legend Of Fuyao 2018
+2021-06-19 11:09:07,690 - bot - INFO - Created Google-Drive Folder:
+Name: Lu Bu and Diaochan 2001
+ID: 1cIvf27C8AhoQ7VuS2KlFv9qxwBVl6cJT 
+2021-06-19 11:09:07,692 - bot - INFO - Syncing: Series/Chines Series/L/Lu Bu and Diaochan 2001
+2021-06-19 11:10:20,712 - bot - INFO - Created Google-Drive Folder:
+Name: Lovely Swords Girl 2019
+ID: 1xV1XZpAdHqz7fCi3eSzXSaPtmopPDsgh 
+2021-06-19 11:10:20,713 - bot - INFO - Syncing: Series/Chines Series/L/Lovely Swords Girl 2019
+2021-06-19 11:11:10,382 - bot - INFO - Created Google-Drive Folder:
+Name: Love actually 2017
+ID: 1vXlcpaPDYaOGzoi5NQky7N6e585cpqvd 
+2021-06-19 11:11:10,384 - bot - INFO - Syncing: Series/Chines Series/L/Love actually 2017
+2021-06-19 11:12:35,295 - bot - INFO - Created Google-Drive Folder:
+Name: Legend Of The Ancient Sword 2014
+ID: 1ZXl3u9haV0DlkrmgRboHczVg1mcMY0uO 
+2021-06-19 11:12:35,297 - bot - INFO - Syncing: Series/Chines Series/L/Legend Of The Ancient Sword 2014
+2021-06-19 11:14:15,770 - bot - INFO - Created Google-Drive Folder:
+Name: L.O.R.D Critical World  ( 2019 
+ID: 19uM-v_VFLUOpeAcbBFugfzVA19i2ibz6 
+2021-06-19 11:14:15,771 - bot - INFO - Syncing: Series/Chines Series/L/L.O.R.D Critical World  ( 2019 
+2021-06-19 11:15:52,013 - bot - INFO - Created Google-Drive Folder:
+Name: Love Me If You Dare 2015
+ID: 1FFKJfrrpD5XpNyyOBGWolZyGweuzITn- 
+2021-06-19 11:15:52,017 - bot - INFO - Syncing: Series/Chines Series/L/Love Me If You Dare 2015
+2021-06-19 11:16:41,985 - bot - INFO - Created Google-Drive Folder:
+Name: Love & T ( 2018 )
+ID: 17Bl-rFsP3EEDDhSygw34ydLJkHYz6psL 
+2021-06-19 11:16:41,987 - bot - INFO - Syncing: Series/Chines Series/L/Love & T ( 2018 )
+2021-06-19 11:17:16,229 - bot - INFO - Syncing: Series/Chines Series/L/Legend of Condor Heroes (2017)
+2021-06-19 11:17:44,038 - bot - INFO - Created Google-Drive Folder:
+Name: Legend Or Dugu 2018
+ID: 1zQGNDyi1F9I76uQWasD3WuVkvhBrdk9S 
+2021-06-19 11:17:44,040 - bot - INFO - Syncing: Series/Chines Series/L/Legend Or Dugu 2018
+2021-06-19 11:19:32,421 - bot - INFO - Created Google-Drive Folder:
+Name: Legend Of The Phoenix  2019
+ID: 1G7QdZdvVxZ0LQG_RzqILjZFC0MFJnI97 
+2021-06-19 11:19:32,423 - bot - INFO - Syncing: Series/Chines Series/L/Legend Of The Phoenix  2019
+2021-06-19 11:20:56,084 - bot - INFO - Created Google-Drive Folder:
+Name: Love and Redemption 2020 (ကျိန်စာပြယ်သောသစ္စာတရား )
+ID: 1F43_kio3O0yDkjmmBRyaqGu9navRDp0T 
+2021-06-19 11:20:56,086 - bot - INFO - Syncing: Series/Chines Series/L/Love and Redemption 2020 (ကျိန်စာပြယ်သောသစ္စာတရား )
+2021-06-19 11:22:15,837 - bot - INFO - Created Google-Drive Folder:
+Name: Love Is Deep 2019
+ID: 1TLXpJg8Up2WYP-KEDvEb1x0-k8gNHn5v 
+2021-06-19 11:22:15,840 - bot - INFO - Syncing: Series/Chines Series/L/Love Is Deep 2019
+2021-06-19 11:23:37,475 - bot - INFO - Created Google-Drive Folder:
+Name: Lady Meng is Here 2018
+ID: 1xSWwWY74wKol5a42erC4rW7XO79tq6NT 
+2021-06-19 11:23:37,479 - bot - INFO - Syncing: Series/Chines Series/L/Lady Meng is Here 2018
+2021-06-19 11:24:50,383 - bot - INFO - Created Google-Drive Folder:
+Name: Love Is Fate ( 2019 )
+ID: 1Mnz86SDgagUcDLOIbqB4tjhu40y8cNr- 
+2021-06-19 11:24:50,384 - bot - INFO - Syncing: Series/Chines Series/L/Love Is Fate ( 2019 )
+2021-06-19 11:26:16,170 - bot - INFO - Created Google-Drive Folder:
+Name: Long For You  2017
+ID: 1rZw0-cKyPuBIZVGb8wh24LmTg8KuYvJy 
+2021-06-19 11:26:16,172 - bot - INFO - Syncing: Series/Chines Series/L/Long For You  2017
+2021-06-19 11:26:58,482 - bot - INFO - Created Google-Drive Folder:
+Name: Love in Sadness 2019
+ID: 1Lfe-j7PO6vGKGzv9V52_YGgwr2GAHjOm 
+2021-06-19 11:26:58,484 - bot - INFO - Syncing: Series/Chines Series/L/Love in Sadness 2019
+2021-06-19 11:27:38,816 - bot - INFO - Created Google-Drive Folder:
+Name: Love & It   2018
+ID: 1R71hP6YF88Pl5M4sdf1FKoiXYeXW32_5 
+2021-06-19 11:27:38,817 - bot - INFO - Syncing: Series/Chines Series/L/Love & It   2018
+2021-06-19 11:28:13,036 - bot - INFO - Created Google-Drive Folder:
+Name: Love So Beautiful 2017
+ID: 1toZgZkhbaWCQAvpX01fj0IZBsEI8Z2JY 
+2021-06-19 11:28:13,044 - bot - INFO - Syncing: Series/Chines Series/L/Love So Beautiful 2017
+2021-06-19 11:28:59,024 - bot - INFO - Created Google-Drive Folder:
+Name: I
+ID: 1ZZVAbaXSMl1bJcSVEBOW4gSxfatrrA6J 
+2021-06-19 11:28:59,025 - bot - INFO - Syncing: Series/Chines Series/I
+2021-06-19 11:29:01,301 - bot - INFO - Created Google-Drive Folder:
+Name: I Love My President He's Psyco 2017
+ID: 1LvHuprqvJ77OT-kFSgh61ew9Fpk7BiYq 
+2021-06-19 11:29:01,303 - bot - INFO - Syncing: Series/Chines Series/I/I Love My President He's Psyco 2017
+2021-06-19 11:29:22,165 - bot - INFO - Created Google-Drive Folder:
+Name: I Can't Hug You  2017
+ID: 111S9du3XQkn3mizc2Tp9o639zYWXQm88 
+2021-06-19 11:29:22,168 - bot - INFO - Syncing: Series/Chines Series/I/I Can't Hug You  2017
+2021-06-19 11:29:24,206 - bot - INFO - Created Google-Drive Folder:
+Name: Investiture Of The Gods 2019
+ID: 171djuTYS-GRHyyie7oEXKzMF-F0TnFim 
+2021-06-19 11:29:24,210 - bot - INFO - Syncing: Series/Chines Series/I/Investiture Of The Gods 2019
+2021-06-19 11:31:07,955 - bot - INFO - Created Google-Drive Folder:
+Name: I Hear You 2019
+ID: 1cDmieZxX6ElPi_cz5VR0rAsfvObfn1Dh 
+2021-06-19 11:31:07,956 - bot - INFO - Syncing: Series/Chines Series/I/I Hear You 2019
+2021-06-19 11:31:56,976 - bot - INFO - Created Google-Drive Folder:
+Name: Ice Fantasy 2016
+ID: 1l6yMR1ggiSg6L1VsBzYCSCn8n3MDXYn1 
+2021-06-19 11:31:56,977 - bot - INFO - Syncing: Series/Chines Series/I/Ice Fantasy 2016
+2021-06-19 11:34:04,494 - bot - INFO - Created Google-Drive Folder:
+Name: In Youth 2019
+ID: 1Sw8vXXhjzwnVHXmvPFIyHbdTrUCpTbfI 
+2021-06-19 11:34:04,498 - bot - INFO - Syncing: Series/Chines Series/I/In Youth 2019
+2021-06-19 11:35:27,922 - bot - INFO - Created Google-Drive Folder:
+Name: IP Man Split 2013
+ID: 1HIR3qP4XYBNSbiQ-68rzSJP6yy0diZS8 
+2021-06-19 11:35:27,924 - bot - INFO - Syncing: Series/Chines Series/I/IP Man Split 2013
+2021-06-19 11:37:17,520 - bot - INFO - Created Google-Drive Folder:
+Name: I Will Never Let You Go 2019
+ID: 1_eaXhkNnVaoX1SFMyi1qCSGG_DM7yQCL 
+2021-06-19 11:37:17,523 - bot - INFO - Syncing: Series/Chines Series/I/I Will Never Let You Go 2019
+2021-06-19 11:39:01,811 - bot - INFO - Created Google-Drive Folder:
+Name: I've Fallen For You 2020
+ID: 1tIAuKgDFiPVERt2KEyIKNGC_zo0mA6G2 
+2021-06-19 11:39:01,821 - bot - INFO - Syncing: Series/Chines Series/I/I've Fallen For You 2020
+2021-06-19 11:39:52,690 - bot - INFO - Created Google-Drive Folder:
+Name: O
+ID: 131zSJkqAcymP-o8yJWiWzmDhYVlJ8xRP 
+2021-06-19 11:39:52,693 - bot - INFO - Syncing: Series/Chines Series/O
+2021-06-19 11:39:54,821 - bot - INFO - Created Google-Drive Folder:
+Name: One And Another Him 2018
+ID: 1-kGYIA9VB0yZrkLFBkeHsqrElR9b7eM_ 
+2021-06-19 11:39:54,824 - bot - INFO - Syncing: Series/Chines Series/O/One And Another Him 2018
+2021-06-19 11:40:44,981 - bot - INFO - Created Google-Drive Folder:
+Name: Ode To Gallantry 1982
+ID: 1GDINwT0hk5bhAgup519Ii3uwKZa_r9Dd 
+2021-06-19 11:40:44,983 - bot - INFO - Syncing: Series/Chines Series/O/Ode To Gallantry 1982
+2021-06-19 11:41:50,705 - bot - INFO - Created Google-Drive Folder:
+Name: One Upon a Time in Lingjian Mountain 2019
+ID: 1PvSuj1jYFy_L2T5ig1azVnzBJvZ9cUAe 
+2021-06-19 11:41:50,707 - bot - INFO - Syncing: Series/Chines Series/O/One Upon a Time in Lingjian Mountain 2019
+2021-06-19 11:43:05,339 - bot - INFO - Created Google-Drive Folder:
+Name: Only Side by Side With You 2018
+ID: 1ZJr2cxeGFZGXFSkgq8vgm3r4x3JCrp-u 
+2021-06-19 11:43:05,342 - bot - INFO - Syncing: Series/Chines Series/O/Only Side by Side With You 2018
+2021-06-19 11:44:23,402 - bot - INFO - Created Google-Drive Folder:
+Name: Only Kiss Without Love 2018
+ID: 1O9xfqjKBuU40Sz8Stpf_hdF0XCnajksm 
+2021-06-19 11:44:23,404 - bot - INFO - Syncing: Series/Chines Series/O/Only Kiss Without Love 2018
+2021-06-19 11:45:11,684 - bot - INFO - Created Google-Drive Folder:
+Name: Our Glamorous Time 2018
+ID: 1jsyjW9saxP1izwfNWBWn2lwX9Ob0iFY0 
+2021-06-19 11:45:11,685 - bot - INFO - Syncing: Series/Chines Series/O/Our Glamorous Time 2018
+2021-06-19 11:46:57,379 - bot - INFO - Created Google-Drive Folder:
+Name: F
+ID: 1Vg1Gza6GViCmNHY3I03lKu-Eg3JrTRLP 
+2021-06-19 11:46:57,391 - bot - INFO - Syncing: Series/Chines Series/F
+2021-06-19 11:46:59,701 - bot - INFO - Created Google-Drive Folder:
+Name: Fairyland Lovers ( 2020 )
+ID: 1ku0HNvGbgls9xgH34Gegl2aUJ4GRjLM4 
+2021-06-19 11:46:59,703 - bot - INFO - Syncing: Series/Chines Series/F/Fairyland Lovers ( 2020 )
+2021-06-19 11:48:12,458 - bot - INFO - Created Google-Drive Folder:
+Name: Fighter Of Destiny 2017
+ID: 16aV1pDz_qm-miQVZj97GqKCE8gq-VoaZ 
+2021-06-19 11:48:12,461 - bot - INFO - Syncing: Series/Chines Series/F/Fighter Of Destiny 2017
+2021-06-19 11:50:01,324 - bot - INFO - Created Google-Drive Folder:
+Name: Fights Break Sphere Season 1 2018
+ID: 157m6BzsXt3mcZPohWY-bGCflLDQ62qD4 
+2021-06-19 11:50:01,331 - bot - INFO - Syncing: Series/Chines Series/F/Fights Break Sphere Season 1 2018
+2021-06-19 11:51:38,635 - bot - INFO - Created Google-Drive Folder:
+Name: Fall In Love 2019
+ID: 1Mx0OzTCvSFnZU_b9ngY9tU_392glWl4y 
+2021-06-19 11:51:38,636 - bot - INFO - Syncing: Series/Chines Series/F/Fall In Love 2019
+2021-06-19 11:52:43,122 - bot - INFO - Created Google-Drive Folder:
+Name: Fair From Wonderland  2006
+ID: 1nhWttt2-ED0iBRqE5rYUC5I090g1I7Km 
+2021-06-19 11:52:43,132 - bot - INFO - Syncing: Series/Chines Series/F/Fair From Wonderland  2006
+2021-06-19 11:53:35,514 - bot - INFO - Created Google-Drive Folder:
+Name: Forget You Remember Love ( 2020 )
+ID: 1l2f3rf6M2T8BoFY-5IPVvxctogRQdpC0 
+2021-06-19 11:53:35,523 - bot - INFO - Syncing: Series/Chines Series/F/Forget You Remember Love ( 2020 )
+2021-06-19 11:54:57,732 - bot - INFO - Created Google-Drive Folder:
+Name: Far Away Love 2016
+ID: 1sF8Eby_7lOUuegWAg5uw57Oc82PDHHhd 
+2021-06-19 11:54:57,733 - bot - INFO - Syncing: Series/Chines Series/F/Far Away Love 2016
+2021-06-19 11:56:12,769 - bot - INFO - Created Google-Drive Folder:
+Name: Failing In Love 2019
+ID: 1zMUbWdIa04gWNbEbV__bS77v4Y4O3GQG 
+2021-06-19 11:56:12,770 - bot - INFO - Syncing: Series/Chines Series/F/Failing In Love 2019
+2021-06-19 11:56:24,460 - bot - INFO - Created Google-Drive Folder:
+Name: Flame Daughter ( 52 ) 2018
+ID: 1BEJiu1wLLXqni-A5VdQcjvnX9XM3oBBG 
+2021-06-19 11:56:24,465 - bot - INFO - Syncing: Series/Chines Series/F/Flame Daughter ( 52 ) 2018
+2021-06-19 11:58:14,306 - bot - INFO - Created Google-Drive Folder:
+Name: Fake Phoenixes ( 2017 )
+ID: 1kaclQdU_NaYi6FoCFRACAs7bmQk8sNVu 
+2021-06-19 11:58:14,307 - bot - INFO - Syncing: Series/Chines Series/F/Fake Phoenixes ( 2017 )
+2021-06-19 11:58:41,539 - bot - INFO - Created Google-Drive Folder:
+Name: J,K
+ID: 1r8MApnvuBFfllZOQv764wCmEo-nsG3jz 
+2021-06-19 11:58:41,541 - bot - INFO - Syncing: Series/Chines Series/J,K
+2021-06-19 11:58:44,383 - bot - INFO - Created Google-Drive Folder:
+Name: Justice Bao 1993
+ID: 1BwEzmixJI1ksqs8McKDDNBGCCeCDZBDo 
+2021-06-19 11:58:44,385 - bot - INFO - Syncing: Series/Chines Series/J,K/Justice Bao 1993
+2021-06-19 11:58:46,280 - bot - INFO - Created Google-Drive Folder:
+Name: Journey To The West ( 1989 )
+ID: 1HBoZx16LbCUshpmSm4WcU7-B4EpnR3nb 
+2021-06-19 11:58:46,281 - bot - INFO - Syncing: Series/Chines Series/J,K/Journey To The West ( 1989 )
+2021-06-19 12:01:57,821 - bot - INFO - Created Google-Drive Folder:
+Name: Joy of Life 2019
+ID: 1L_hWuunFRkXTS0brgmipotMpVoa3t8xA 
+2021-06-19 12:01:57,823 - bot - INFO - Syncing: Series/Chines Series/J,K/Joy of Life 2019
+2021-06-19 12:03:33,734 - bot - INFO - Created Google-Drive Folder:
+Name: Journey To The West ( 2000)
+ID: 1VpQWNYET8DPYWdwQ4BYCIsCNHiXs93Y0 
+2021-06-19 12:03:33,736 - bot - INFO - Syncing: Series/Chines Series/J,K/Journey To The West ( 2000)
+2021-06-19 12:04:04,437 - bot - INFO - Created Google-Drive Folder:
+Name: King Is Not Easy 2017
+ID: 1sAkMqZsraGmUmwgVI6cOo3ZaIXhtkbeN 
+2021-06-19 12:04:04,438 - bot - INFO - Syncing: Series/Chines Series/J,K/King Is Not Easy 2017
+2021-06-19 12:04:47,750 - bot - INFO - Created Google-Drive Folder:
+Name: Jibril
+ID: 1xpNj6kH-jV2gJwSkCpRe08wmW3VLo1M5 
+2021-06-19 12:04:47,752 - bot - INFO - Syncing: Series/Chines Series/J,K/Jibril
+2021-06-19 12:05:07,986 - bot - INFO - Syncing: Series/Chines Series/J,K/Journey To The West 
+2021-06-19 12:06:50,449 - bot - INFO - Created Google-Drive Folder:
+Name: Jenius 2015
+ID: 1rK_HlAuuRoz-dJBWMvw6vJa5P35QDGeH 
+2021-06-19 12:06:50,452 - bot - INFO - Syncing: Series/Chines Series/J,K/Jenius 2015
+2021-06-19 12:07:11,759 - bot - INFO - Created Google-Drive Folder:
+Name: Kun Lun Que 2017
+ID: 1peeRM_0UO2Oti5sD8wB8SuhTpFlajBqw 
+2021-06-19 12:07:11,761 - bot - INFO - Syncing: Series/Chines Series/J,K/Kun Lun Que 2017
+2021-06-19 12:07:41,839 - bot - INFO - Created Google-Drive Folder:
+Name: Journery to the West 1996
+ID: 1-vG5A5g6T6ocjnsu5MypHBWMW953NtTp 
+2021-06-19 12:07:41,841 - bot - INFO - Syncing: Series/Chines Series/J,K/Journery to the West 1996
+2021-06-19 12:09:54,084 - bot - INFO - Created Google-Drive Folder:
+Name: H
+ID: 1B3XTrE-SlYD6ZnBev8Psk9lD7iCdjJWJ 
+2021-06-19 12:09:54,086 - bot - INFO - Syncing: Series/Chines Series/H
+2021-06-19 12:09:56,199 - bot - INFO - Created Google-Drive Folder:
+Name: Honey, Don't Run Away 2020
+ID: 1H-0IiLS8FMx3IWC99fzISa7gRA1LLAsD 
+2021-06-19 12:09:56,200 - bot - INFO - Syncing: Series/Chines Series/H/Honey, Don't Run Away 2020
+2021-06-19 12:10:25,382 - bot - INFO - Created Google-Drive Folder:
+Name: Hot Blooded Youth ( 2019 )
+ID: 1BHqAJG1QMENO2VxQvnBCN9VjLAHtx95o 
+2021-06-19 12:10:25,384 - bot - INFO - Syncing: Series/Chines Series/H/Hot Blooded Youth ( 2019 )
+2021-06-19 12:11:38,893 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "userRateLimitExceeded"
+2021-06-19 12:11:38,895 - bot - INFO - Switching to 1.json service account
+2021-06-19 12:11:38,895 - bot - INFO - Authorizing with 1.json service account
+2021-06-19 12:11:47,280 - bot - INFO - Got: userRateLimitExceeded, Trying Again.
+2021-06-19 12:12:52,992 - bot - INFO - Created Google-Drive Folder:
+Name: Hello Mr. Right 2016
+ID: 1_YTOnF1oFhlHQtDoHT8ZnwCpNRRYRNvS 
+2021-06-19 12:12:52,993 - bot - INFO - Syncing: Series/Chines Series/H/Hello Mr. Right 2016
+2021-06-19 12:13:50,239 - bot - INFO - Created Google-Drive Folder:
+Name: Heavenly Sword (နဂါးနိုင်ဓား) 2019
+ID: 1kBwJBu5Lh8djgSMfQdFCF1W7dSp5knjg 
+2021-06-19 12:13:50,241 - bot - INFO - Syncing: Series/Chines Series/H/Heavenly Sword (နဂါးနိုင်ဓား) 2019
+2021-06-19 12:15:45,944 - bot - INFO - Created Google-Drive Folder:
+Name: Heroic Journey Of Ne Zha 2020
+ID: 16qS9z0Y1A9jsf0JxB3fAmfXlxwKkVPNw 
+2021-06-19 12:15:45,946 - bot - INFO - Syncing: Series/Chines Series/H/Heroic Journey Of Ne Zha 2020
+2021-06-19 12:16:50,714 - bot - INFO - Created Google-Drive Folder:
+Name: Handsome Siblings ( 2020 )
+ID: 1Suy-Yn36l5Z7lmLR9QwEjaPNdqfTtfoF 
+2021-06-19 12:16:50,716 - bot - INFO - Syncing: Series/Chines Series/H/Handsome Siblings ( 2020 )
+2021-06-19 12:18:36,757 - bot - INFO - Created Google-Drive Folder:
+Name: Hi Flower ( Ugly Girl Hai Hua ) 2017
+ID: 1cc7XYnlEBo1hBlTiFgKRtfYHtZjl1m_t 
+2021-06-19 12:18:36,758 - bot - INFO - Syncing: Series/Chines Series/H/Hi Flower ( Ugly Girl Hai Hua ) 2017
+2021-06-19 12:20:00,463 - bot - INFO - Created Google-Drive Folder:
+Name: Hello Dear Ancestors 2018
+ID: 1c4qwUciJByeUDmd1QWmwNkcetXtYvLgZ 
+2021-06-19 12:20:00,465 - bot - INFO - Syncing: Series/Chines Series/H/Hello Dear Ancestors 2018
+2021-06-19 12:21:00,678 - bot - INFO - Created Google-Drive Folder:
+Name: Hotel King 2014
+ID: 1BDMX6QiK_9BodI3IF8J2nx_1olXvQ85h 
+2021-06-19 12:21:00,680 - bot - INFO - Syncing: Series/Chines Series/H/Hotel King 2014
+2021-06-19 12:22:14,891 - bot - INFO - Created Google-Drive Folder:
+Name: Half Bright and Half Rain 2019
+ID: 1rOtNepcAsL68L8FO_oTVbTC7xzhUgnL6 
+2021-06-19 12:22:14,893 - bot - INFO - Syncing: Series/Chines Series/H/Half Bright and Half Rain 2019
+2021-06-19 12:22:17,099 - bot - INFO - Created Google-Drive Folder:
+Name: Heirs From Another Star 2014
+ID: 1myswGJA56Vh8Isuxe-hlaV23mq4nQ9qk 
+2021-06-19 12:22:17,101 - bot - INFO - Syncing: Series/Chines Series/H/Heirs From Another Star 2014
+2021-06-19 12:22:41,884 - bot - INFO - Created Google-Drive Folder:
+Name: Heavenly Sword and Dragon Slaying Saber
+ID: 1hU2xm8NgY2F3_loV0u2sffGpfjxYN828 
+2021-06-19 12:22:41,885 - bot - INFO - Syncing: Series/Chines Series/H/Heavenly Sword and Dragon Slaying Saber
+2021-06-19 12:24:39,217 - bot - INFO - Created Google-Drive Folder:
+Name: Heavenly Sword And Dragon sabre 2019
+ID: 1-8wO37sTUCzG2ZuMlKkGi9lNPsBCyArN 
+2021-06-19 12:24:39,219 - bot - INFO - Syncing: Series/Chines Series/H/Heavenly Sword And Dragon sabre 2019
+2021-06-19 12:26:24,074 - bot - INFO - Created Google-Drive Folder:
+Name: Holy Pearl 2011
+ID: 1ur6py668TZRb5UdHH0rRsS7SBez6ACK5 
+2021-06-19 12:26:24,075 - bot - INFO - Syncing: Series/Chines Series/H/Holy Pearl 2011
+2021-06-19 12:27:48,872 - bot - INFO - Created Google-Drive Folder:
+Name: N
+ID: 1jyOj8mD3Nt_qeXlVGxmvzg04Gfd3Bker 
+2021-06-19 12:27:48,874 - bot - INFO - Syncing: Series/Chines Series/N
+2021-06-19 12:27:51,237 - bot - INFO - Created Google-Drive Folder:
+Name: Novoland The Castel In The Sky 2016
+ID: 1Nc-cRoWN4fJLigRTOzxt8khTheXX5lVe 
+2021-06-19 12:27:51,239 - bot - INFO - Syncing: Series/Chines Series/N/Novoland The Castel In The Sky 2016
+2021-06-19 12:28:59,959 - bot - INFO - Created Google-Drive Folder:
+Name: Novoland Eagle Flag 2019
+ID: 1RdJeufJ7TNLfZibTixSqs82UwuBdy6v9 
+2021-06-19 12:28:59,961 - bot - INFO - Syncing: Series/Chines Series/N/Novoland Eagle Flag 2019
+2021-06-19 12:31:14,489 - bot - INFO - Created Google-Drive Folder:
+Name: Never Say Never  2019
+ID: 1phrZQVRS3Pe1uYqG73afnCdMHrSd_com 
+2021-06-19 12:31:14,492 - bot - INFO - Syncing: Series/Chines Series/N/Never Say Never  2019
+2021-06-19 12:32:54,005 - bot - INFO - Created Google-Drive Folder:
+Name: No Secrets 2019
+ID: 1Pb2uGUKeN60Y7UVbjs1zCwp-bY91-ChG 
+2021-06-19 12:32:54,006 - bot - INFO - Syncing: Series/Chines Series/N/No Secrets 2019
+2021-06-19 12:33:35,349 - bot - INFO - Created Google-Drive Folder:
+Name: M
+ID: 1Ck31ZFxxM5zWcDfaiMAbGHwZo7g9P6LV 
+2021-06-19 12:33:35,352 - bot - INFO - Syncing: Series/Chines Series/M
+2021-06-19 12:33:37,813 - bot - INFO - Created Google-Drive Folder:
+Name: Meteor Garden 2018
+ID: 1bg0YM9rFQ9hq0kjbd8W6aZN4a9Av93Cg 
+2021-06-19 12:33:37,815 - bot - INFO - Syncing: Series/Chines Series/M/Meteor Garden 2018
+2021-06-19 12:35:33,747 - bot - INFO - Created Google-Drive Folder:
+Name: Memory Lost 2016
+ID: 12stmi-rh4MhbTdaxTKTcL9hqh_pmS69D 
+2021-06-19 12:35:33,752 - bot - INFO - Syncing: Series/Chines Series/M/Memory Lost 2016
+2021-06-19 12:36:58,712 - bot - INFO - Created Google-Drive Folder:
+Name: Murphyl,s law of love 2015
+ID: 1iISu3eo7gEiebQqEIkTse9aAP4FPK-kk 
+2021-06-19 12:36:58,714 - bot - INFO - Syncing: Series/Chines Series/M/Murphyl,s law of love 2015
+2021-06-19 12:37:45,623 - bot - INFO - Created Google-Drive Folder:
+Name: My Poseidon 2019
+ID: 1H_0LhodqjHQW_7yl1d5MbAhEIr3Swsly 
+2021-06-19 12:37:45,625 - bot - INFO - Syncing: Series/Chines Series/M/My Poseidon 2019
+2021-06-19 12:39:05,510 - bot - INFO - Created Google-Drive Folder:
+Name: Me &Emperors 2019
+ID: 19POyGO7CSG6F1edanaSOfERXJ8Tabf4g 
+2021-06-19 12:39:05,517 - bot - INFO - Syncing: Series/Chines Series/M/Me &Emperors 2019
+2021-06-19 12:40:03,691 - bot - INFO - Created Google-Drive Folder:
+Name: My Mr Mermaid  2017
+ID: 1R0GODd9dYmFyYjRjofWbW9p5t4H9lUpA 
+2021-06-19 12:40:03,720 - bot - INFO - Syncing: Series/Chines Series/M/My Mr Mermaid  2017
+2021-06-19 12:41:30,596 - bot - INFO - Created Google-Drive Folder:
+Name: My Amazing Boyfriend 2016
+ID: 10xL893CrBdAp-IH8yiFiLl7HApeTR50Y 
+2021-06-19 12:41:30,612 - bot - INFO - Syncing: Series/Chines Series/M/My Amazing Boyfriend 2016
+2021-06-19 12:42:40,597 - bot - INFO - Created Google-Drive Folder:
+Name: My Girl Friend is an Alien 2019
+ID: 1nCOKtZ1Ni-yijyLhxbq9oPHFQED-pSgy 
+2021-06-19 12:42:40,599 - bot - INFO - Syncing: Series/Chines Series/M/My Girl Friend is an Alien 2019
+2021-06-19 12:44:48,980 - bot - INFO - Syncing: Series/Chines Series/M/My Girl Friend 2019
+2021-06-19 12:45:09,202 - bot - INFO - Created Google-Drive Folder:
+Name: My Dear Mowgali 2019
+ID: 1GGc4Nv2UtneZ8kiyJQZnBAz3kmuqkh1j 
+2021-06-19 12:45:09,204 - bot - INFO - Syncing: Series/Chines Series/M/My Dear Mowgali 2019
+2021-06-19 12:47:05,668 - bot - INFO - Created Google-Drive Folder:
+Name: My Roommate Is A Detective 2020
+ID: 1pEPX4eDh3ByAKazz0VYBCy7Dd04sJsFa 
+2021-06-19 12:47:05,671 - bot - INFO - Syncing: Series/Chines Series/M/My Roommate Is A Detective 2020
+2021-06-19 12:48:30,961 - bot - INFO - Created Google-Drive Folder:
+Name: Miss In Kiss 2016
+ID: 1pvmDgQQiKMwpNNw0-xQ4zR0zu1lstNwr 
+2021-06-19 12:48:30,965 - bot - INFO - Syncing: Series/Chines Series/M/Miss In Kiss 2016
+2021-06-19 12:49:58,779 - bot - INFO - Created Google-Drive Folder:
+Name: Mountains and Oceans 2019
+ID: 1BkHTnAKCsHMhaOLWgaah0bDjEerm9p7u 
+2021-06-19 12:49:58,781 - bot - INFO - Syncing: Series/Chines Series/M/Mountains and Oceans 2019
+2021-06-19 12:50:56,951 - bot - INFO - Created Google-Drive Folder:
+Name: Magic Star 2017
+ID: 1Uu1WzHbLWhQRhtD50vlJ7Y80Bx8fStYd 
+2021-06-19 12:50:56,953 - bot - INFO - Syncing: Series/Chines Series/M/Magic Star 2017
+2021-06-19 12:54:53,313 - bot - INFO - Created Google-Drive Folder:
+Name: Master Devil Don't Kiss Me 2017
+ID: 1fM6k8Uv7EaQHjhBKt-2mMKjwcxomPe7h 
+2021-06-19 12:54:53,318 - bot - INFO - Syncing: Series/Chines Series/M/Master Devil Don't Kiss Me 2017
+2021-06-19 12:55:49,760 - bot - INFO - Created Google-Drive Folder:
+Name: My Mowgli Boy 
+ID: 1mKI8Jdt3sAthggDvBDi-wle56CCyps02 
+2021-06-19 12:55:49,764 - bot - INFO - Syncing: Series/Chines Series/M/My Mowgli Boy 
+2021-06-19 12:57:47,602 - bot - INFO - Created Google-Drive Folder:
+Name: Moonshine & Valentine 2018
+ID: 1Hb05tJHRK9msv-5t7UTdm-xl5kvxbLDg 
+2021-06-19 12:57:47,605 - bot - INFO - Syncing: Series/Chines Series/M/Moonshine & Valentine 2018
+2021-06-19 12:58:47,945 - bot - INFO - Created Google-Drive Folder:
+Name: Medical Dxaminer Dr Qin 2016
+ID: 1xy-x2UhbNCpr7I6HXzjwAZAGYQ2tSbvk 
+2021-06-19 12:58:47,947 - bot - INFO - Syncing: Series/Chines Series/M/Medical Dxaminer Dr Qin 2016
+2021-06-19 12:59:36,525 - bot - INFO - Created Google-Drive Folder:
+Name: Mengfei Comes Across 2018
+ID: 1Jeww_Z4LtCqfhH35dqGuMW9-WsOOnWSd 
+2021-06-19 12:59:36,527 - bot - INFO - Syncing: Series/Chines Series/M/Mengfei Comes Across 2018
+2021-06-19 13:01:07,962 - bot - INFO - Created Google-Drive Folder:
+Name: My Dear Boy 2017
+ID: 1oD__hOWCPay-i_idIOh7qKYnMQKYwVKj 
+2021-06-19 13:01:07,964 - bot - INFO - Syncing: Series/Chines Series/M/My Dear Boy 2017
+2021-06-19 13:01:59,083 - bot - INFO - Created Google-Drive Folder:
+Name: Mirzapur 2018
+ID: 1jfr6iuUkp_ZWcXWUTMqreID76JvN-ge6 
+2021-06-19 13:01:59,085 - bot - INFO - Syncing: Series/Chines Series/M/Mirzapur 2018
+2021-06-19 13:02:00,201 - bot - INFO - Syncing: Series/Chines Series/M/Magic Star
+2021-06-19 13:02:35,779 - bot - INFO - Created Google-Drive Folder:
+Name: My celestial college 2017
+ID: 1pqg-ovUqx5hRTVk0BvtkJXSCPG-gkDiA 
+2021-06-19 13:02:35,781 - bot - INFO - Syncing: Series/Chines Series/M/My celestial college 2017
+2021-06-19 13:03:24,317 - bot - INFO - Created Google-Drive Folder:
+Name: My Robot Boyfriend 2019
+ID: 1hF1dN7d5f_g5hdEKISMk3JqdQ2L51yaH 
+2021-06-19 13:03:24,318 - bot - INFO - Syncing: Series/Chines Series/M/My Robot Boyfriend 2019
+2021-06-19 13:05:05,334 - bot - INFO - Created Google-Drive Folder:
+Name: A
+ID: 1OON11oANdkmK6XlJxObm1jIT2UaGqa_F 
+2021-06-19 13:05:05,336 - bot - INFO - Syncing: Series/Chines Series/A
+2021-06-19 13:05:07,839 - bot - INFO - Created Google-Drive Folder:
+Name: Another Me
+ID: 1iFcZzVHJZORkDtcIuHobAso_wRQOLHEN 
+2021-06-19 13:05:07,841 - bot - INFO - Syncing: Series/Chines Series/A/Another Me
+2021-06-19 13:05:52,087 - bot - INFO - Created Google-Drive Folder:
+Name: A Little Thing Called First Love 2019
+ID: 1E5_8AFWbO9MtWxaRGGXp6Ak2pMxAO5Wq 
+2021-06-19 13:05:52,093 - bot - INFO - Syncing: Series/Chines Series/A/A Little Thing Called First Love 2019
+2021-06-19 13:07:16,070 - bot - INFO - Created Google-Drive Folder:
+Name: Accidentally In Love 2018
+ID: 1HOmlVOcTiUT-k3GnsArStfVOtwCdjItN 
+2021-06-19 13:07:16,076 - bot - INFO - Syncing: Series/Chines Series/A/Accidentally In Love 2018
+2021-06-19 13:08:30,911 - bot - INFO - Created Google-Drive Folder:
+Name: Another Me 2019
+ID: 1qalgP2yA2mHAyDTrSPTXfpogdpg_XfcG 
+2021-06-19 13:08:30,927 - bot - INFO - Syncing: Series/Chines Series/A/Another Me 2019
+2021-06-19 13:09:34,955 - bot - INFO - Created Google-Drive Folder:
+Name: Addicted Heroin ( 2016 )
+ID: 1LAa_LIYCIuH6kMCxJq4TUUKcMRzO6Gfq 
+2021-06-19 13:09:35,014 - bot - INFO - Syncing: Series/Chines Series/A/Addicted Heroin ( 2016 )
+2021-06-19 13:10:16,284 - bot - INFO - Created Google-Drive Folder:
+Name: Ashes Of Love 2018
+ID: 1G5TGckJmuEDTyJPtgsuPWxiLV_4m5l08 
+2021-06-19 13:10:16,286 - bot - INFO - Syncing: Series/Chines Series/A/Ashes Of Love 2018
+2021-06-19 13:12:40,973 - bot - INFO - Created Google-Drive Folder:
+Name: Arsenal military academy 2019
+ID: 193-p0uFkgchr8vcyzNzU8wGgaPRyQxWl 
+2021-06-19 13:12:40,976 - bot - INFO - Syncing: Series/Chines Series/A/Arsenal military academy 2019
+2021-06-19 13:14:29,497 - bot - INFO - Created Google-Drive Folder:
+Name: A Love So Beautiful 2017
+ID: 1Z8L03PxPnoZLQaQkrU8oh7MZXV1UME7Q 
+2021-06-19 13:14:29,502 - bot - INFO - Syncing: Series/Chines Series/A/A Love So Beautiful 2017
+2021-06-19 13:15:25,574 - bot - INFO - Created Google-Drive Folder:
+Name: Age of Legends 2018 (Chinese)
+ID: 13H346bkT0mhOIk6dWi9HCd0CuD4vbXT5 
+2021-06-19 13:15:25,577 - bot - INFO - Syncing: Series/Chines Series/A/Age of Legends 2018 (Chinese)
+2021-06-19 13:18:56,476 - bot - INFO - Created Google-Drive Folder:
+Name: And the Winner is Love 2020
+ID: 1zKKbMc_hmhyEMCIQcjua2KbHSdtQT6jq 
+2021-06-19 13:18:56,478 - bot - INFO - Syncing: Series/Chines Series/A/And the Winner is Love 2020
+2021-06-19 13:20:50,017 - bot - INFO - Created Google-Drive Folder:
+Name: All I Want for Love is You 2019
+ID: 1ImDgYaeoy35k__ms0CvuueSjWgsXfplM 
+2021-06-19 13:20:50,020 - bot - INFO - Syncing: Series/Chines Series/A/All I Want for Love is You 2019
+2021-06-19 13:22:05,867 - bot - INFO - Syncing: Series/Chines Series/A/Age of legends 2018
+2021-06-19 13:22:36,239 - bot - INFO - Created Google-Drive Folder:
+Name: A Chinese Odyssey Love Of Eternity 2017
+ID: 1bOeruS582FT_yRgjh3mYnN6cut4ubjxL 
+2021-06-19 13:22:36,242 - bot - INFO - Syncing: Series/Chines Series/A/A Chinese Odyssey Love Of Eternity 2017
+2021-06-19 13:24:47,829 - bot - INFO - Created Google-Drive Folder:
+Name: Chinese Series
+ID: 1HfH_nMm36LujwRpGecoZ213SNwvYgvIQ 
+2021-06-19 13:24:47,832 - bot - INFO - Syncing: Series/Chinese Series
+2021-06-19 13:24:50,365 - bot - INFO - Created Google-Drive Folder:
+Name: T
+ID: 1SnhL_6TUcen1EtIe2kYI56hwhvnOQkAl 
+2021-06-19 13:24:50,368 - bot - INFO - Syncing: Series/Chinese Series/T
+2021-06-19 13:24:53,561 - bot - INFO - Created Google-Drive Folder:
+Name: The Lost Tomb 2015
+ID: 16fxCZrkRxTetV4f9skaBM-BJ394bAihI 
+2021-06-19 13:24:53,564 - bot - INFO - Syncing: Series/Chinese Series/T/The Lost Tomb 2015
+2021-06-19 13:26:55,149 - bot - INFO - Created Google-Drive Folder:
+Name: The Romance Of The Condor Heroes 2014
+ID: 19sdDgYSuTZ0dbjNEYNZNxEbFCmpzgUKm 
+2021-06-19 13:26:55,155 - bot - INFO - Syncing: Series/Chinese Series/T/The Romance Of The Condor Heroes 2014
+2021-06-19 13:29:14,169 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend of Chusen 2016
+ID: 1IBsLyZWjV-Y4f4P18wnH6oxZNDJYldM4 
+2021-06-19 13:29:14,172 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend of Chusen 2016
+2021-06-19 13:31:25,838 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend Of Hao Lan 2019
+ID: 1kWVoqLr3E2K2ScE1sZ40pTRb3lefjTmu 
+2021-06-19 13:31:25,840 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of Hao Lan 2019
+2021-06-19 13:33:56,786 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend Of Zu
+ID: 1oqgnpyS3hTQ3084yAlB4MkoInJUVkEXF 
+2021-06-19 13:33:56,789 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of Zu
+2021-06-19 13:36:12,577 - bot - INFO - Created Google-Drive Folder:
+Name: Taichi Master 1993
+ID: 1fjRMvMl57eF956tgSEc_AWS_xW8J2rKp 
+2021-06-19 13:36:12,579 - bot - INFO - Syncing: Series/Chinese Series/T/Taichi Master 1993
+2021-06-19 13:37:13,328 - bot - INFO - Created Google-Drive Folder:
+Name: The Man From The Future 2017
+ID: 1GZfiNbVIQ-AP2JBuVyx6MKiv7s738d17 
+2021-06-19 13:37:13,330 - bot - INFO - Syncing: Series/Chinese Series/T/The Man From The Future 2017
+2021-06-19 13:37:39,241 - bot - INFO - Created Google-Drive Folder:
+Name: The Eternal Love 2017
+ID: 1dLZJLdPgOYlBd3A3qWKvrOVwuhTlu6kA 
+2021-06-19 13:37:39,244 - bot - INFO - Syncing: Series/Chinese Series/T/The Eternal Love 2017
+2021-06-19 13:37:41,640 - bot - INFO - Created Google-Drive Folder:
+Name: The Eternal Love Season 1
+ID: 1qazNZKJFc_OeVoVbAF4S63pVNk8SerZg 
+2021-06-19 13:37:41,643 - bot - INFO - Syncing: Series/Chinese Series/T/The Eternal Love 2017/The Eternal Love Season 1
+2021-06-19 13:38:41,556 - bot - INFO - Created Google-Drive Folder:
+Name: The Eternal Love Season 2
+ID: 1NgrUP6M4-_wOnwzRVO75nP0MHI1kkrGt 
+2021-06-19 13:38:41,561 - bot - INFO - Syncing: Series/Chinese Series/T/The Eternal Love 2017/The Eternal Love Season 2
+2021-06-19 13:39:56,630 - bot - INFO - Created Google-Drive Folder:
+Name: The Dark Lord 2018
+ID: 1HsP4j0j0KEo0PgAopif9ygArfN9vwKm9 
+2021-06-19 13:39:56,637 - bot - INFO - Syncing: Series/Chinese Series/T/The Dark Lord 2018
+2021-06-19 13:41:51,002 - bot - INFO - Created Google-Drive Folder:
+Name: The Starry Night The starry Season 2 2017
+ID: 1DPHfdr8n9lJSObJEGBfO-Ag8DNU1avRW 
+2021-06-19 13:41:51,005 - bot - INFO - Syncing: Series/Chinese Series/T/The Starry Night The starry Season 2 2017
+2021-06-19 13:43:14,244 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend of Dugu 2018
+ID: 1aEycLRJDu39KwzieT8MWXCxDqpmX0z5J 
+2021-06-19 13:43:14,247 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend of Dugu 2018
+2021-06-19 13:45:25,357 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "userRateLimitExceeded"
+2021-06-19 13:45:25,358 - bot - INFO - Switching to 2.json service account
+2021-06-19 13:45:25,359 - bot - INFO - Authorizing with 2.json service account
+2021-06-19 13:45:28,420 - bot - INFO - Got: userRateLimitExceeded, Trying Again.
+2021-06-19 13:45:37,032 - bot - INFO - Created Google-Drive Folder:
+Name: The Brightest Star In the Sky 2019
+ID: 1GREBQn6bS4KFlP2Rwjbj8Qj7MU46fBzi 
+2021-06-19 13:45:37,034 - bot - INFO - Syncing: Series/Chinese Series/T/The Brightest Star In the Sky 2019
+2021-06-19 13:47:21,090 - bot - INFO - Created Google-Drive Folder:
+Name: The Girl Who See Smell 2015
+ID: 168AW_BMi59rBDoOo4YDdhOg0R9QP4gsx 
+2021-06-19 13:47:21,093 - bot - INFO - Syncing: Series/Chinese Series/T/The Girl Who See Smell 2015
+2021-06-19 13:47:59,220 - bot - INFO - Created Google-Drive Folder:
+Name: The King's Avatar 2017
+ID: 13a5htQz5HXsK1o8BNkkI7tLi26A4AHlZ 
+2021-06-19 13:47:59,223 - bot - INFO - Syncing: Series/Chinese Series/T/The King's Avatar 2017
+2021-06-19 13:49:30,350 - bot - INFO - Created Google-Drive Folder:
+Name: The Night Of The Comet 2019
+ID: 1l-i8M_CgxSgiug4-aobm0wmD420Slb28 
+2021-06-19 13:49:30,353 - bot - INFO - Syncing: Series/Chinese Series/T/The Night Of The Comet 2019
+2021-06-19 13:50:07,936 - bot - INFO - Created Google-Drive Folder:
+Name: The Return Of The Counter Hero 2006
+ID: 1d2U45CKPonSENw5UZYtXS7AnEC6si9tV 
+2021-06-19 13:50:07,940 - bot - INFO - Syncing: Series/Chinese Series/T/The Return Of The Counter Hero 2006
+2021-06-19 13:51:47,487 - bot - INFO - Created Google-Drive Folder:
+Name: The Mu Saga 2012
+ID: 1WCtI1eq5hw9SFOusJRGAH8lpzqtmAqc7 
+2021-06-19 13:51:47,490 - bot - INFO - Syncing: Series/Chinese Series/T/The Mu Saga 2012
+2021-06-19 13:53:18,670 - bot - INFO - Created Google-Drive Folder:
+Name: The Demon Master 2018
+ID: 1NQ6o5M9eeFM2cjFP9qGyU8-sabiJ2ZFU 
+2021-06-19 13:53:18,672 - bot - INFO - Syncing: Series/Chinese Series/T/The Demon Master 2018
+2021-06-19 13:54:53,225 - bot - INFO - Created Google-Drive Folder:
+Name: Take My Brother Away Season 1 2018
+ID: 1V0HwriKPdMBGuxMd1t87QNLKRg_ObjLj 
+2021-06-19 13:54:53,227 - bot - INFO - Syncing: Series/Chinese Series/T/Take My Brother Away Season 1 2018
+2021-06-19 13:56:02,264 - bot - INFO - Created Google-Drive Folder:
+Name: Taiji Prodigy 2001
+ID: 1kyH3d2m39hRyyho_Prd0CJMv87Rt3ddw 
+2021-06-19 13:56:02,267 - bot - INFO - Syncing: Series/Chinese Series/T/Taiji Prodigy 2001
+2021-06-19 13:57:34,356 - bot - INFO - Created Google-Drive Folder:
+Name: The Great Protector 2014
+ID: 1EIlrJbvR1V8rz_kq_b2Id__6-3MjQxaX 
+2021-06-19 13:57:34,361 - bot - INFO - Syncing: Series/Chinese Series/T/The Great Protector 2014
+2021-06-19 13:59:00,908 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend Of Chusen Season 2 2017
+ID: 1omuukXIe_XFw9Rhg9chnRL-yhfIPn0hg 
+2021-06-19 13:59:00,910 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of Chusen Season 2 2017
+2021-06-19 13:59:43,347 - bot - INFO - Syncing: Series/Chinese Series/T/The Lost Tomb ( 2015 )
+2021-06-19 13:59:52,314 - bot - INFO - Created Google-Drive Folder:
+Name: The Heavenly Sword and Dragon Sabre (နဂါးနိုင်ဓား) 2003
+ID: 18BEroCRM0gZ-xkS1lB63hFMIu9q-zO5Z 
+2021-06-19 13:59:52,316 - bot - INFO - Syncing: Series/Chinese Series/T/The Heavenly Sword and Dragon Sabre (နဂါးနိုင်ဓား) 2003
+2021-06-19 14:01:25,079 - bot - INFO - Created Google-Drive Folder:
+Name: Taiji Prodigy(2002)
+ID: 1Hi3zD6UJT343Cxjh8TnSlLw5ddt5uQfg 
+2021-06-19 14:01:25,080 - bot - INFO - Syncing: Series/Chinese Series/T/Taiji Prodigy(2002)
+2021-06-19 14:02:54,722 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend Condorhero 2017
+ID: 1qtgfM0D45PT3a8koJ_E2yqOe_nFfEjmG 
+2021-06-19 14:02:54,724 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Condorhero 2017
+2021-06-19 14:04:54,264 - bot - INFO - Syncing: Series/Chinese Series/T/The brightest star in the sky
+2021-06-19 14:05:22,868 - bot - INFO - Created Google-Drive Folder:
+Name: The Great Show 2019
+ID: 1uKqAJNmbCDnbgFV-0_DGiLFMJmMDTxgY 
+2021-06-19 14:05:22,870 - bot - INFO - Syncing: Series/Chinese Series/T/The Great Show 2019
+2021-06-19 14:06:01,555 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend Of Lu Zhen 2013
+ID: 1o5ybFJkkv3LoMuNrwqMEWJHpRkQzBwmO 
+2021-06-19 14:06:01,557 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of Lu Zhen 2013
+2021-06-19 14:06:03,882 - bot - INFO - Created Google-Drive Folder:
+Name: Part 2
+ID: 14ie3nAhTjrfUEwn86kCqPn6XdczJ7j4K 
+2021-06-19 14:06:03,884 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of Lu Zhen 2013/Part 2
+2021-06-19 14:07:07,640 - bot - INFO - Created Google-Drive Folder:
+Name: Part 1
+ID: 1WVv7oljZ1qsXF7iNWqky-VEzk9U1Qkjr 
+2021-06-19 14:07:07,643 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of Lu Zhen 2013/Part 1
+2021-06-19 14:07:32,099 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend Of White Snake 2019
+ID: 1p59DE1vu9pyv3eyer6QHrBz_uRCgKD-P 
+2021-06-19 14:07:32,101 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of White Snake 2019
+2021-06-19 14:08:55,952 - bot - INFO - Created Google-Drive Folder:
+Name: The Master Of Tai Chi 2008
+ID: 16POBGVWkVccf3FB9VYLomQqc5RlG-vOH 
+2021-06-19 14:08:55,954 - bot - INFO - Syncing: Series/Chinese Series/T/The Master Of Tai Chi 2008
+2021-06-19 14:09:52,798 - bot - INFO - Created Google-Drive Folder:
+Name: The Twin Flower Legend 2020
+ID: 19HpwonoaYZY0FomwjblVtBvahuyqateU 
+2021-06-19 14:09:52,800 - bot - INFO - Syncing: Series/Chinese Series/T/The Twin Flower Legend 2020
+2021-06-19 14:12:10,356 - bot - INFO - Created Google-Drive Folder:
+Name: The New Legends Of Monkey 2018
+ID: 1T866wATBnMipqh_CJhFoee8TGvXg95Nv 
+2021-06-19 14:12:10,359 - bot - INFO - Syncing: Series/Chinese Series/T/The New Legends Of Monkey 2018
+2021-06-19 14:12:12,741 - bot - INFO - Created Google-Drive Folder:
+Name: Season 1
+ID: 1xNQpixrCGBBqn2qJYkRf7fdkzjSvlAtR 
+2021-06-19 14:12:12,743 - bot - INFO - Syncing: Series/Chinese Series/T/The New Legends Of Monkey 2018/Season 1
+2021-06-19 14:12:35,391 - bot - INFO - Created Google-Drive Folder:
+Name: The Emergence Of first 2019
+ID: 1pNqsB7L6ZVOscGaIDtqG7A6Xj23MFoWI 
+2021-06-19 14:12:35,393 - bot - INFO - Syncing: Series/Chinese Series/T/The Emergence Of first 2019
+2021-06-19 14:13:41,636 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend Of Zu 2015
+ID: 1L6aU9LO5eaCX0_wFjtBH5YgmpA0JlDFb 
+2021-06-19 14:13:41,638 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of Zu 2015
+2021-06-19 14:17:52,997 - bot - INFO - Created Google-Drive Folder:
+Name: The Mystic Nine 2016
+ID: 1kyXZAzS8qTyct-S-M-U_jhe4ajGMR5mL 
+2021-06-19 14:17:52,999 - bot - INFO - Syncing: Series/Chinese Series/T/The Mystic Nine 2016
+2021-06-19 14:19:40,518 - bot - INFO - Created Google-Drive Folder:
+Name: The Taoist Grand Master 2018
+ID: 1lYTWt3ttWA9xauGrFcFejXnPE3PpGb8L 
+2021-06-19 14:19:40,520 - bot - INFO - Syncing: Series/Chinese Series/T/The Taoist Grand Master 2018
+2021-06-19 14:21:27,500 - bot - INFO - Created Google-Drive Folder:
+Name: The Love By Hypnotic 2019
+ID: 1R3hkDes3G3iIEJ56fzZFHe2ftdp3vZdv 
+2021-06-19 14:21:27,502 - bot - INFO - Syncing: Series/Chinese Series/T/The Love By Hypnotic 2019
+2021-06-19 14:22:23,666 - bot - INFO - Created Google-Drive Folder:
+Name: The Love Lasts Two Minds 2020
+ID: 1KaOJdkkwmKvGHJPpxl4s1T8BV6UOtbn1 
+2021-06-19 14:22:23,668 - bot - INFO - Syncing: Series/Chinese Series/T/The Love Lasts Two Minds 2020
+2021-06-19 14:23:45,782 - bot - INFO - Created Google-Drive Folder:
+Name: The Classic Of The Mountain And Sea 2016
+ID: 1Prkaa5U4DKNwPlOaWSm4bUs-8E6OzYwE 
+2021-06-19 14:23:45,784 - bot - INFO - Syncing: Series/Chinese Series/T/The Classic Of The Mountain And Sea 2016
+2021-06-19 14:29:03,121 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend of fragrance 2015
+ID: 1i9Btd2i7kS_0JIt3iiuFxPS4x0jeWZYR 
+2021-06-19 14:29:03,122 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend of fragrance 2015
+2021-06-19 14:29:21,478 - bot - INFO - Created Google-Drive Folder:
+Name: The Golden Eye 1995
+ID: 1ZJ8aqjCzV5sqOP1U_mjeTQ2K5W7mo89n 
+2021-06-19 14:29:21,480 - bot - INFO - Syncing: Series/Chinese Series/T/The Golden Eye 1995
+2021-06-19 14:31:26,669 - bot - INFO - Created Google-Drive Folder:
+Name: The Lost Tomb 2: Explore With the Note 2019
+ID: 1cpxdWJgDJ6xgJFgV2GhJ1nPYcS0JYGLH 
+2021-06-19 14:31:26,670 - bot - INFO - Syncing: Series/Chinese Series/T/The Lost Tomb 2: Explore With the Note 2019
+2021-06-19 14:33:08,211 - bot - INFO - Created Google-Drive Folder:
+Name: The Flame's Daughter 2018
+ID: 18i8uUZoC13s0TfafEP-Xc8QuGvxRqD0V 
+2021-06-19 14:33:08,212 - bot - INFO - Syncing: Series/Chinese Series/T/The Flame's Daughter 2018
+2021-06-19 14:35:02,225 - bot - INFO - Created Google-Drive Folder:
+Name: The Emergence Of First love
+ID: 1lottWI1TzaDkpMh6tvbL0S5CMObP96bt 
+2021-06-19 14:35:02,227 - bot - INFO - Syncing: Series/Chinese Series/T/The Emergence Of First love
+2021-06-19 14:36:13,748 - bot - INFO - Created Google-Drive Folder:
+Name: The King's Woman 2017
+ID: 1gfWeBfCsLcH9EoDobw9E1Z7BEJswWac1 
+2021-06-19 14:36:13,749 - bot - INFO - Syncing: Series/Chinese Series/T/The King's Woman 2017
+2021-06-19 14:38:06,911 - bot - INFO - Created Google-Drive Folder:
+Name: The Legend Of The Monster 2016
+ID: 1fiXWZvIGZk4VupQJ8l5kW9nMxtXnqsWS 
+2021-06-19 14:38:06,913 - bot - INFO - Syncing: Series/Chinese Series/T/The Legend Of The Monster 2016
+2021-06-19 14:38:54,026 - bot - INFO - Created Google-Drive Folder:
+Name: The Romance Of Hua Rong 2019
+ID: 1g_KIINAa-R-9rnNQ52BgWYOonHuLz27r 
+2021-06-19 14:38:54,028 - bot - INFO - Syncing: Series/Chinese Series/T/The Romance Of Hua Rong 2019
+2021-06-19 14:39:51,403 - bot - INFO - Created Google-Drive Folder:
+Name: The Ghost Bride 2020
+ID: 1yn_xYJin4dJ5vHuMDxQwsYvslKGBDR_Q 
+2021-06-19 14:39:51,405 - bot - INFO - Syncing: Series/Chinese Series/T/The Ghost Bride 2020
+2021-06-19 14:40:06,404 - bot - INFO - Created Google-Drive Folder:
+Name: Take Care Of Captain 2012
+ID: 1zJjsjC4V8QapYj30PGwYvwGzYGDhlpi2 
+2021-06-19 14:40:06,411 - bot - INFO - Syncing: Series/Chinese Series/T/Take Care Of Captain 2012
+2021-06-19 14:40:54,720 - bot - INFO - Created Google-Drive Folder:
+Name: U,V,W,X,Y,Z
+ID: 1bbauOale8F4JqeSbPjT_11gPXYoYKW4G 
+2021-06-19 14:40:54,722 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z
+2021-06-19 14:40:57,254 - bot - INFO - Created Google-Drive Folder:
+Name: ရန်ကြွေးအလီလီ သိုင်းမြေမဟီ
+ID: 1oK1URHCgHs8qclbl61JJR4Dfg0merbVS 
+2021-06-19 14:40:57,255 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/ရန်ကြွေးအလီလီ သိုင်းမြေမဟီ
+2021-06-19 14:42:16,791 - bot - INFO - Created Google-Drive Folder:
+Name: Wait My Youth 2019
+ID: 1SdwdEkGb8YhPMA7J2Yav75KGBWDjrA5G 
+2021-06-19 14:42:16,793 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Wait My Youth 2019
+2021-06-19 14:43:25,553 - bot - INFO - Created Google-Drive Folder:
+Name: Well Intended Love Season 2  2020
+ID: 1p0q8ovFOBGYxDaFqnjKNNmlL2JlcoFQ2 
+2021-06-19 14:43:25,555 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Well Intended Love Season 2  2020
+2021-06-19 14:44:01,305 - bot - INFO - Created Google-Drive Folder:
+Name: Wind and Cloud 2002
+ID: 17P0c7sgqcS8_s6U_160UIa3ZJy8Jseuc 
+2021-06-19 14:44:01,306 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Wind and Cloud 2002
+2021-06-19 14:45:41,265 - bot - INFO - Created Google-Drive Folder:
+Name: Where The Lost Ones Go ( 2017 )
+ID: 1pTPkx_3LbeRJmWqq2f5X09rsS9nbU1xa 
+2021-06-19 14:45:41,267 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Where The Lost Ones Go ( 2017 )
+2021-06-19 14:46:35,342 - bot - INFO - Created Google-Drive Folder:
+Name: Well Intended Love 2019
+ID: 1m1FSRKemspdzdu7FDrUElDj76GSEZmeQ 
+2021-06-19 14:46:35,344 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Well Intended Love 2019
+2021-06-19 14:47:20,888 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Where the Lost Ones Go 2017
+2021-06-19 14:48:29,363 - bot - INFO - Created Google-Drive Folder:
+Name: ဒဏ္ဍာရီပုံပြင်များ၏_မိစ္ဆာနှိမ်နှင်းသူမျာ
+ID: 1FaXWkVycoRB2jNHg3veP7vUGZgOq2W6I 
+2021-06-19 14:48:29,366 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/ဒဏ္ဍာရီပုံပြင်များ၏_မိစ္ဆာနှိမ်နှင်းသူမျာ
+2021-06-19 14:49:04,593 - bot - INFO - Created Google-Drive Folder:
+Name: Weapon & Soul 2016
+ID: 161BGu_ze66Rprc6Atl0ZJWVzs0FpfK_V 
+2021-06-19 14:49:04,594 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Weapon & Soul 2016
+2021-06-19 14:49:35,776 - bot - INFO - Created Google-Drive Folder:
+Name: ဒ႑ရီထဲက_ခ်စ္ေတးကဗ်
+ID: 1W1sS2nRxR9SUf8Fdxt3Od6rsnLrg8Szz 
+2021-06-19 14:49:35,778 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/ဒ႑ရီထဲက_ခ်စ္ေတးကဗ်
+2021-06-19 14:51:41,590 - bot - INFO - Created Google-Drive Folder:
+Name: Unexpected 2018
+ID: 1j-4qWbAEzlZCYB9scXN1sHATkdtZ4OAY 
+2021-06-19 14:51:41,592 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Unexpected 2018
+2021-06-19 14:52:35,698 - bot - INFO - Created Google-Drive Folder:
+Name: Wu Geng Ji Season 1
+ID: 1_e4qqX_9w7oS4w8OkDEPKxSHfWOJitgA 
+2021-06-19 14:52:35,700 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Wu Geng Ji Season 1
+2021-06-19 14:53:43,283 - bot - INFO - Created Google-Drive Folder:
+Name: ဝိဥာဥ်ခြွေ တေဇောဓား
+ID: 1ajaKJKnSDsfySxPa9xgHAZb82xKICojJ 
+2021-06-19 14:53:43,285 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/ဝိဥာဥ်ခြွေ တေဇောဓား
+2021-06-19 14:55:29,627 - bot - INFO - Created Google-Drive Folder:
+Name: Untouchable Lovers 2018
+ID: 1JXvzEICqKtpRdYeWAzXzZ5ncnUiRs9p9 
+2021-06-19 14:55:29,629 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Untouchable Lovers 2018
+2021-06-19 14:57:21,833 - bot - INFO - Created Google-Drive Folder:
+Name: Want To See You Smile 2018
+ID: 1LSkW3qRj96VeoLH94Jer0_CpDc_bJhg0 
+2021-06-19 14:57:21,835 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Want To See You Smile 2018
+2021-06-19 14:58:15,480 - bot - INFO - Created Google-Drive Folder:
+Name: Wu Geng Ji Season  2016
+ID: 1Id50NJN3qLh_R4_iqSGBh2fSVYz5-wG4 
+2021-06-19 14:58:15,486 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Wu Geng Ji Season  2016
+2021-06-19 14:59:19,491 - bot - INFO - Created Google-Drive Folder:
+Name: Xuan Yuan Sword Han Cloud 2017
+ID: 1hysfHNac5npWtZ_CovLvtunydIOv45gd 
+2021-06-19 14:59:19,493 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Xuan Yuan Sword Han Cloud 2017
+2021-06-19 15:01:28,299 - bot - INFO - Created Google-Drive Folder:
+Name: Warrior Season 1 2019
+ID: 11uSs344wqYzkClvFVGWWz5YhVEfwPdaY 
+2021-06-19 15:01:28,301 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Warrior Season 1 2019
+2021-06-19 15:01:53,499 - bot - INFO - Created Google-Drive Folder:
+Name: Wuxin Monster Killer ( mmsb ) 2015
+ID: 1n_1Lnx-lFDNlgy4Y0jjetSv-uNWAjMsa 
+2021-06-19 15:01:53,502 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Wuxin Monster Killer ( mmsb ) 2015
+2021-06-19 15:02:33,514 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "userRateLimitExceeded"
+2021-06-19 15:02:33,516 - bot - INFO - Switching to 3.json service account
+2021-06-19 15:02:33,516 - bot - INFO - Authorizing with 3.json service account
+2021-06-19 15:02:36,561 - bot - INFO - Got: userRateLimitExceeded, Trying Again.
+2021-06-19 15:03:06,731 - bot - INFO - Created Google-Drive Folder:
+Name: Whirlwind Girl 2015
+ID: 10LJmwZOZXkwoj0D6dB7AxO61qYun5uzd 
+2021-06-19 15:03:46,374 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/Whirlwind Girl 2015
+2021-06-19 15:05:38,815 - bot - INFO - Created Google-Drive Folder:
+Name: When We Were Young 2017
+ID: 1gAWUFIq1-LxmfMuPGGe_ro22NWV-LjJC 
+2021-06-19 15:05:38,817 - bot - INFO - Syncing: Series/Chinese Series/U,V,W,X,Y,Z/When We Were Young 2017
+2021-06-19 15:06:34,702 - bot - INFO - Created Google-Drive Folder:
+Name: C
+ID: 1H-DisxePPsu2r9zyUfRoDA42jlSXYSy7 
+2021-06-19 15:06:34,705 - bot - INFO - Syncing: Series/Chinese Series/C
+2021-06-19 15:06:37,358 - bot - INFO - Created Google-Drive Folder:
+Name: Chasing Ball 2019
+ID: 1XolSAgaq0e_wJ3CF7k5zwOKIL1CpsSLW 
+2021-06-19 15:06:37,362 - bot - INFO - Syncing: Series/Chinese Series/C/Chasing Ball 2019
+2021-06-19 15:07:58,959 - bot - INFO - Created Google-Drive Folder:
+Name: Crazy Palace  2013
+ID: 1-FT1VgyjGKY8-r_yxL15OdpCGBtca-hj 
+2021-06-19 15:07:58,961 - bot - INFO - Syncing: Series/Chinese Series/C/Crazy Palace  2013
+2021-06-19 15:08:21,832 - bot - INFO - Created Google-Drive Folder:
+Name: Candle In the Tomb The Wrarth Of Time ( 2019 ) 
+ID: 1sZYOssc8dE2A6JjtZ4qLhiEL1vbIzbQA 
+2021-06-19 15:08:21,835 - bot - INFO - Syncing: Series/Chinese Series/C/Candle In the Tomb The Wrarth Of Time ( 2019 ) 
+2021-06-19 15:09:10,881 - bot - INFO - Created Google-Drive Folder:
+Name: Chosen ( Mini Series ) 2018
+ID: 1E48xkndZspsNoCrdmDiDok9NGPKX1cpl 
+2021-06-19 15:09:10,883 - bot - INFO - Syncing: Series/Chinese Series/C/Chosen ( Mini Series ) 2018
+2021-06-19 15:09:20,011 - bot - INFO - Created Google-Drive Folder:
+Name: Crule Romance 2015
+ID: 17kFrY1DDzmVAV1F3rSl7dF5y-TBteard 
+2021-06-19 15:09:20,014 - bot - INFO - Syncing: Series/Chinese Series/C/Crule Romance 2015
+2021-06-19 15:10:55,637 - bot - INFO - Created Google-Drive Folder:
+Name: Cinderella Chef 2018
+ID: 1NiJCKWZPmdNblthliaRQclGjYtIhFmmB 
+2021-06-19 15:10:55,639 - bot - INFO - Syncing: Series/Chinese Series/C/Cinderella Chef 2018
+2021-06-19 15:13:15,501 - bot - INFO - Created Google-Drive Folder:
+Name: Captain  of destiny 2015
+ID: 1vX-P0jrsScRlcNYcCPz3v6kzoA-B7eri 
+2021-06-19 15:13:15,503 - bot - INFO - Syncing: Series/Chinese Series/C/Captain  of destiny 2015
+2021-06-19 15:14:38,631 - bot - INFO - Created Google-Drive Folder:
+Name: Candle In The Tomb 2020
+ID: 1N27KT9ZK_vu-S5h1kqtV4X8So7DXKVx6 
+2021-06-19 15:14:38,633 - bot - INFO - Syncing: Series/Chinese Series/C/Candle In The Tomb 2020
+2021-06-19 15:15:23,238 - bot - INFO - Created Google-Drive Folder:
+Name: Cupid Of Chou Dynasty 2019
+ID: 16rk75C4MSu3YyhiVlGsX2GpraHGkucwj 
+2021-06-19 15:15:23,241 - bot - INFO - Syncing: Series/Chinese Series/C/Cupid Of Chou Dynasty 2019
+2021-06-19 15:16:20,028 - bot - INFO - Created Google-Drive Folder:
+Name: P
+ID: 1CIgupv-A9D6yQ5gZHhfoksizsvbCNp-3 
+2021-06-19 15:16:20,029 - bot - INFO - Syncing: Series/Chinese Series/P
+2021-06-19 15:16:22,769 - bot - INFO - Created Google-Drive Folder:
+Name: Put Your Hands On My Shoulder 2019
+ID: 1WN7hQgq-X1qL3quSCe62BYeK1qkdt08K 
+2021-06-19 15:16:22,771 - bot - INFO - Syncing: Series/Chinese Series/P/Put Your Hands On My Shoulder 2019
+2021-06-19 15:17:23,950 - bot - INFO - Created Google-Drive Folder:
+Name: Prince Of Wolf 2016
+ID: 1rZFqPTQRLsMYS7b5q57NSeqr8IuDjsps 
+2021-06-19 15:17:23,952 - bot - INFO - Syncing: Series/Chinese Series/P/Prince Of Wolf 2016
+2021-06-19 15:18:09,922 - bot - INFO - Created Google-Drive Folder:
+Name: Perfect Couple 2014
+ID: 1GsBylFlUer08Zb2hJObutybFoIWXwdM6 
+2021-06-19 15:18:09,923 - bot - INFO - Syncing: Series/Chinese Series/P/Perfect Couple 2014
+2021-06-19 15:20:04,509 - bot - INFO - Created Google-Drive Folder:
+Name: Pretty Man 2018
+ID: 17_N1PHPrcKLHXBWakKSlIlAr04dBnhAb 
+2021-06-19 15:20:04,510 - bot - INFO - Syncing: Series/Chinese Series/P/Pretty Man 2018
+2021-06-19 15:20:07,918 - bot - INFO - Created Google-Drive Folder:
+Name: Pretty Man Season 2
+ID: 1WeUxpLi5V6OOrc8c43p6Wk6-exCAVmrZ 
+2021-06-19 15:20:07,920 - bot - INFO - Syncing: Series/Chinese Series/P/Pretty Man 2018/Pretty Man Season 2
+2021-06-19 15:21:25,448 - bot - INFO - Created Google-Drive Folder:
+Name: Pretty Man Season 1
+ID: 1COv47JCdYI_DZ4A8rABbGSoT4Yi6C_zy 
+2021-06-19 15:21:25,450 - bot - INFO - Syncing: Series/Chinese Series/P/Pretty Man 2018/Pretty Man Season 1
+2021-06-19 15:22:31,106 - bot - INFO - Created Google-Drive Folder:
+Name: Painting Love Story
+ID: 1lCCpVIgAv3BIkkcXUzHV23_gzG-5NiAk 
+2021-06-19 15:22:31,108 - bot - INFO - Syncing: Series/Chinese Series/P/Painting Love Story
+2021-06-19 15:23:48,549 - bot - INFO - Created Google-Drive Folder:
+Name: Princess At Large 2017
+ID: 1dR43PlRgIGGPZLBYecKOeVwDEgDh_5yx 
+2021-06-19 15:23:48,550 - bot - INFO - Syncing: Series/Chinese Series/P/Princess At Large 2017
+2021-06-19 15:24:19,831 - bot - INFO - Created Google-Drive Folder:
+Name: Princess Agents 2017
+ID: 1_GMqFx5ob0lRqNHhkJ4Td5uAj9aEMNmD 
+2021-06-19 15:24:19,833 - bot - INFO - Syncing: Series/Chinese Series/P/Princess Agents 2017
+2021-06-19 15:26:42,669 - bot - INFO - Created Google-Drive Folder:
+Name: Put your Head on My Shoulder
+ID: 1_yjfoYdMHE7SIoc_WcbXEBVkLukgeepe 
+2021-06-19 15:26:42,672 - bot - INFO - Syncing: Series/Chinese Series/P/Put your Head on My Shoulder
+2021-06-19 15:27:44,700 - bot - INFO - Created Google-Drive Folder:
+Name: Prmoise of Migratory 2016
+ID: 1f0uTbg18HPlC-4ll2_lf9w9Vv2psgnLu 
+2021-06-19 15:27:44,701 - bot - INFO - Syncing: Series/Chinese Series/P/Prmoise of Migratory 2016
+2021-06-19 15:28:49,453 - bot - INFO - Created Google-Drive Folder:
+Name: Pretty Li Hui Zhen 2017
+ID: 1Y8UEPLhR2RWepubl4a9ioOO6KUpDBlh5 
+2021-06-19 15:28:49,454 - bot - INFO - Syncing: Series/Chinese Series/P/Pretty Li Hui Zhen 2017
+2021-06-19 15:30:29,823 - bot - INFO - Created Google-Drive Folder:
+Name: Princess Weiyan 2016
+ID: 12N8bsdS-v_BODw7XZKQ0W2tKeBD462_S 
+2021-06-19 15:30:29,825 - bot - INFO - Syncing: Series/Chinese Series/P/Princess Weiyan 2016
+2021-06-19 15:32:45,704 - bot - INFO - Created Google-Drive Folder:
+Name: Princess Silver 2019
+ID: 15o0cI0An-UX1KbAZfB6NMrVSa18peaQK 
+2021-06-19 15:32:45,705 - bot - INFO - Syncing: Series/Chinese Series/P/Princess Silver 2019
+2021-06-19 15:35:10,495 - bot - INFO - Created Google-Drive Folder:
+Name: G
+ID: 1cVnhX60qvvkLB2eA4G5uedC7rDwInuwq 
+2021-06-19 15:35:10,499 - bot - INFO - Syncing: Series/Chinese Series/G
+2021-06-19 15:35:13,345 - bot - INFO - Created Google-Drive Folder:
+Name: Gank Your Heart Summary ( 2019 )
+ID: 1i66jZICyFLckcqDdYIQ01dHu21fmH_T- 
+2021-06-19 15:35:13,347 - bot - INFO - Syncing: Series/Chinese Series/G/Gank Your Heart Summary ( 2019 )
+2021-06-19 15:36:48,310 - bot - INFO - Created Google-Drive Folder:
+Name: General And I 2017
+ID: 1XjCQ8pK3Q9FSQ0-huH7vkj6keuy_m2cY 
+2021-06-19 15:36:48,312 - bot - INFO - Syncing: Series/Chinese Series/G/General And I 2017
+2021-06-19 15:39:25,719 - bot - INFO - Created Google-Drive Folder:
+Name: God of War 2016
+ID: 1MJW-yGKRg14-sqRLqW_LvPJR3oKWrYev 
+2021-06-19 15:39:25,721 - bot - INFO - Syncing: Series/Chinese Series/G/God of War 2016
+2021-06-19 15:42:00,656 - bot - INFO - Created Google-Drive Folder:
+Name: Go Go Squid 2019
+ID: 1zGujICh-kdY-VQdkJCpG7_JL-wmAtU1A 
+2021-06-19 15:42:00,658 - bot - INFO - Syncing: Series/Chinese Series/G/Go Go Squid 2019
+2021-06-19 15:43:46,466 - bot - INFO - Created Google-Drive Folder:
+Name: Grand Theft In  Tang  2019
+ID: 18wLqRgqAuwe3pMlTj0Pb-BDNYfGqeFa0 
+2021-06-19 15:43:46,468 - bot - INFO - Syncing: Series/Chinese Series/G/Grand Theft In  Tang  2019
+2021-06-19 15:44:48,674 - bot - INFO - Created Google-Drive Folder:
+Name: Go Princes Go 2015
+ID: 1k7z5NHoXjcVRZhwMcCFfLGWJLEL4hy5E 
+2021-06-19 15:44:48,676 - bot - INFO - Syncing: Series/Chinese Series/G/Go Princes Go 2015
+2021-06-19 15:45:46,807 - bot - INFO - Created Google-Drive Folder:
+Name: Ghost Boyfriend 2016
+ID: 1urjIkgPh1Q21G3v7edTTAGLJCv-tgVh1 
+2021-06-19 15:45:46,809 - bot - INFO - Syncing: Series/Chinese Series/G/Ghost Boyfriend 2016
+2021-06-19 15:45:59,208 - bot - INFO - Created Google-Drive Folder:
+Name: Goodbye My Princess 2019
+ID: 1Kr3pHLr42a2p95Sdf0gC0U6vjA-aL1jd 
+2021-06-19 15:45:59,209 - bot - INFO - Syncing: Series/Chinese Series/G/Goodbye My Princess 2019
+2021-06-19 15:48:00,176 - bot - INFO - Created Google-Drive Folder:
+Name: Great God Monkey 2020
+ID: 1zSkqiD4phuxHycNZUAhgmyOwxtJw_xf- 
+2021-06-19 15:48:00,178 - bot - INFO - Syncing: Series/Chinese Series/G/Great God Monkey 2020
+2021-06-19 15:48:34,385 - bot - INFO - Created Google-Drive Folder:
+Name: E
+ID: 1tfnNOBjqqQJk5J83pyurcad6zuasHrcs 
+2021-06-19 15:48:34,387 - bot - INFO - Syncing: Series/Chinese Series/E
+2021-06-19 15:48:37,029 - bot - INFO - Created Google-Drive Folder:
+Name: Eternal love of dream 2019
+ID: 1otrbsnhbQGLEEaYe6wEOfDcT0JOrmePH 
+2021-06-19 15:48:37,032 - bot - INFO - Syncing: Series/Chinese Series/E/Eternal love of dream 2019
+2021-06-19 15:50:46,556 - bot - INFO - Created Google-Drive Folder:
+Name: Emperors And Me 2019
+ID: 1-vHQLo_urLs-vbm6W-gdXxwS0HfQMHG2 
+2021-06-19 15:50:46,558 - bot - INFO - Syncing: Series/Chinese Series/E/Emperors And Me 2019
+2021-06-19 15:51:46,109 - bot - INFO - Created Google-Drive Folder:
+Name: Eternal Love 2017
+ID: 1A1qrhNlRjQZikLSUODl6XzOlvJO62nsi 
+2021-06-19 15:51:46,111 - bot - INFO - Syncing: Series/Chinese Series/E/Eternal Love 2017
+2021-06-19 15:51:48,564 - bot - INFO - Created Google-Drive Folder:
+Name: Eternal Love Season 2
+ID: 1BmR9HU72ePWSmPesdnDt2MX2H9du63qt 
+2021-06-19 15:51:48,565 - bot - INFO - Syncing: Series/Chinese Series/E/Eternal Love 2017/Eternal Love Season 2
+2021-06-19 15:53:04,840 - bot - INFO - Created Google-Drive Folder:
+Name: Eternal Love Season 1
+ID: 160lU8k83Qej6EHB4cV5nkF5fJQSNO-S2 
+2021-06-19 15:53:04,843 - bot - INFO - Syncing: Series/Chinese Series/E/Eternal Love 2017/Eternal Love Season 1
+2021-06-19 15:54:03,578 - bot - INFO - Created Google-Drive Folder:
+Name: Ever Night (season 1)
+ID: 1X_QXPPy05QMg3xozFWxlrTtk-uVcLJha 
+2021-06-19 15:54:03,584 - bot - INFO - Syncing: Series/Chinese Series/E/Ever Night (season 1)
+2021-06-19 15:56:33,010 - bot - INFO - Created Google-Drive Folder:
+Name: Empress of China 2014
+ID: 1bC7xJQhQskyjMvsbZecaZ5miZ3Xm1gFX 
+2021-06-19 15:56:33,013 - bot - INFO - Syncing: Series/Chinese Series/E/Empress of China 2014
+2021-06-19 15:59:44,710 - bot - INFO - Created Google-Drive Folder:
+Name: Ever Night ( Season 2 )
+ID: 1JiMqP82mHmMfF120c8wFCTXmb5JEhHlt 
+2021-06-19 15:59:44,712 - bot - INFO - Syncing: Series/Chinese Series/E/Ever Night ( Season 2 )
+2021-06-19 16:01:29,572 - bot - INFO - Created Google-Drive Folder:
+Name: D
+ID: 1vNNWLMTAd5dZMug2vFI9W9XLr4y8Z_Lg 
+2021-06-19 16:01:29,574 - bot - INFO - Syncing: Series/Chinese Series/D
+2021-06-19 16:01:32,291 - bot - INFO - Created Google-Drive Folder:
+Name: Don't Kiss Me 2017
+ID: 1CM3TdOfh4vtM3Ha53wYnfJnLp36PRb3o 
+2021-06-19 16:01:32,293 - bot - INFO - Syncing: Series/Chinese Series/D/Don't Kiss Me 2017
+2021-06-19 16:02:33,210 - bot - INFO - Created Google-Drive Folder:
+Name: Demon Out Of Chang'an 2016
+ID: 110HSv68J-hcHeoZCJ66xVKOHPGm-_3fJ 
+2021-06-19 16:02:33,213 - bot - INFO - Syncing: Series/Chinese Series/D/Demon Out Of Chang'an 2016
+2021-06-19 16:03:08,952 - bot - INFO - Created Google-Drive Folder:
+Name: Detective L 2019
+ID: 1STy6t58OwLKwBp72utDVHyi7UPuoBOZo 
+2021-06-19 16:03:08,955 - bot - INFO - Syncing: Series/Chinese Series/D/Detective L 2019
+2021-06-19 16:04:09,962 - bot - INFO - Created Google-Drive Folder:
+Name: Detective samoyeds 2017
+ID: 1g5MkUaiCjLYQJnPzsqL-xPFLXFuO2s3n 
+2021-06-19 16:04:09,965 - bot - INFO - Syncing: Series/Chinese Series/D/Detective samoyeds 2017
+2021-06-19 16:06:03,864 - bot - INFO - Created Google-Drive Folder:
+Name: Demon Girl 2016
+ID: 1c48ZKpDk_sGPZV2nZ-6xn4PY6SYHU3pk 
+2021-06-19 16:06:03,866 - bot - INFO - Syncing: Series/Chinese Series/D/Demon Girl 2016
+2021-06-19 16:06:55,137 - bot - INFO - Created Google-Drive Folder:
+Name: Dentiny's Love 2019
+ID: 12rBxEN9NnPaQgkOplSPlmu9uBG6v3DaX 
+2021-06-19 16:06:55,139 - bot - INFO - Syncing: Series/Chinese Series/D/Dentiny's Love 2019
+2021-06-19 16:08:21,223 - bot - INFO - Created Google-Drive Folder:
+Name: Delicious Dentiny 2017
+ID: 1hyMPyx5opNK1tLn0v64wA5qfDkVSfw5V 
+2021-06-19 16:08:21,225 - bot - INFO - Syncing: Series/Chinese Series/D/Delicious Dentiny 2017
+2021-06-19 16:10:37,320 - bot - INFO - Created Google-Drive Folder:
+Name: Detective Chinatown 2015
+ID: 1lq0aYZzSN4VPrM6b1c13SeVh0oOoOWXB 
+2021-06-19 16:10:37,322 - bot - INFO - Syncing: Series/Chinese Series/D/Detective Chinatown 2015
+2021-06-19 16:11:08,858 - bot - INFO - Created Google-Drive Folder:
+Name: Dasongbeidousi 2019
+ID: 1oKc6c4kiWm7RWQY4x0S7KUg5603N4G8n 
+2021-06-19 16:11:08,862 - bot - INFO - Syncing: Series/Chinese Series/D/Dasongbeidousi 2019
+2021-06-19 16:12:40,326 - bot - INFO - Created Google-Drive Folder:
+Name: Demi - Gods and Semi - Devils 2003
+ID: 1w85V-qLoZQ0HKWfixKbqNk90gw3e-aux 
+2021-06-19 16:12:40,329 - bot - INFO - Syncing: Series/Chinese Series/D/Demi - Gods and Semi - Devils 2003
+2021-06-19 16:14:21,407 - bot - INFO - Created Google-Drive Folder:
+Name: Dr.Cutie 2020
+ID: 10HF6czNCccXA7CZPwc9JeGVOR2qms90d 
+2021-06-19 16:14:21,408 - bot - INFO - Syncing: Series/Chinese Series/D/Dr.Cutie 2020
+2021-06-19 16:15:31,578 - bot - INFO - Created Google-Drive Folder:
+Name: Destined to love you 2015
+ID: 1uqUbcFU_gKZcW1bGXIUDAWbvlgT30MHp 
+2021-06-19 16:15:31,580 - bot - INFO - Syncing: Series/Chinese Series/D/Destined to love you 2015
+2021-06-19 16:17:10,599 - bot - INFO - Created Google-Drive Folder:
+Name: R,S
+ID: 1CXy5GiJK43m_b2li7t0hOvutkl0Ud0i1 
+2021-06-19 16:17:10,601 - bot - INFO - Syncing: Series/Chinese Series/R,S
+2021-06-19 16:17:13,246 - bot - INFO - Created Google-Drive Folder:
+Name: Sword Of Legends 2 2018
+ID: 14n2fXZ_9vuOcOHjC5ec4tXA9pP94Yd0F 
+2021-06-19 16:17:13,248 - bot - INFO - Syncing: Series/Chinese Series/R,S/Sword Of Legends 2 2018
+2021-06-19 16:19:12,478 - bot - INFO - Created Google-Drive Folder:
+Name: Siege In Fog 2018
+ID: 1xfCQZRjyHGBcuD5j7IXjm5ol7mb34xx3 
+2021-06-19 16:19:12,480 - bot - INFO - Syncing: Series/Chinese Series/R,S/Siege In Fog 2018
